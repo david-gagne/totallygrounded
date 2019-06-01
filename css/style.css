@@ -22,7 +22,7 @@
 
 .title {
     font-family: "Circular Black", sans-serif;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 #uvp {
